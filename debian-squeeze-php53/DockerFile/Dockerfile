@@ -1,6 +1,6 @@
 # VERSION                   0.2.0
 
-FROM eboraas/apache:latest
+FROM eboraas/apache-php:latest
 
 MAINTAINER Dmitry Vapelnik <dvapelnik@gmail.com>
 
