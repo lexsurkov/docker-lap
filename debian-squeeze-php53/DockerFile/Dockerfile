@@ -1,6 +1,6 @@
 # VERSION                   0.2.0
 
-FROM eboraas/apache:squeeze
+FROM eboraas/apache:latest
 
 MAINTAINER Dmitry Vapelnik <dvapelnik@gmail.com>
 
